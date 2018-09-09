@@ -1,2 +1,4 @@
-# scanned_photo_splitter
-# scanned_photo_splitter
+# Scanned Photo Splitter
+
+Split and adjust separate photos in a scanned image.
+

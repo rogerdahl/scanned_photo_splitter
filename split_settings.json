@@ -1,0 +1,8 @@
+{
+ "blur_kernel_size": 1,
+ "blur_sigma": 0,
+ "debug_idx": 4,
+ "flood_fill_tolerance": 19,
+ "image_idx": 0,
+ "resize_calc_ratio": 0.1
+}
